@@ -1,0 +1,13 @@
+,month,avg_max_temp,avg_min_temp,hours_of_sun,rain_days_per_month,avg_sea_temp
+2,januari,              28,              18,              6,              6,              26
+3,februari,              28,              17,              7,              5,              26
+4,maart,              30,              19,              8,              3,              26
+5,april,              32,              21,              8,              3,              27
+6,mei,              32,              22,              8,              7,              28
+7,juni,              32,              23,              7,              12,              28
+8,juli,              33,              23,              7,              12,              29
+9,augustus,              33,              24,              7,              14,              29
+10,september,              32,              23,              6,              14,              29
+11,oktober,              31,              22,              7,              13,              29
+12,november,              29,              20,              6,              7,              28
+13,december,              28,              18,              6,              7,              27
