@@ -1,0 +1,22 @@
+,City,month,avg_max_temp,avg_min_temp,hours_of_sun,rain_days_per_month,avg_sea_temp
+0,Ushuaia,januari,26,14,11,2,              n.v.t.
+1,Cordoba,oktober,26,12,8,7,              n.v.t.
+2,Cochabamba,september,25,9,7,5,              n.v.t.
+3,Cochabamba,februari,32,25,7,4,28
+4,Montanita,oktober,32,19,3,0,22
+5,Quito,augustus,21,2,6,8,              n.v.t.
+6,Guayaquil,oktober,32,19,3,0,22
+7,Cuenca,augustus,21,2,6,8,              n.v.t.
+8,Cancun,april,32,21,8,3,27
+0,Montevideo,januari,28,17,9,10,22
+1,Lima,maart,26,19,7,3,22
+2,Arequipa,april,23,7,9,2,              n.v.t.
+3,Asuncion,mei,25,16,7,6,              n.v.t.
+4,Oaxaca,februari,27,8,8,2,              n.v.t.
+5,Puebla,maart,25,9,8,2,              n.v.t.
+6,Hermosillo,april,27,9,9,1,              n.v.t.
+7,Puerto Vallarta,april,31,22,8,5,27
+8,Mexicali,april,30,14,12,2,              n.v.t.
+9,Merida,februari,30,18,7,3,              n.v.t.
+10,San Miguel de Allende,maart,28,10,7,2,              n.v.t.
+11,Queretaro,maart,26,7,7,1,              n.v.t.
