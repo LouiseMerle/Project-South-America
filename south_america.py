@@ -2,6 +2,16 @@ import pandas as pd
 import numpy as np
 import plotly.graph_objects as go
 
+
+'''
+L.S. Very nice project! You put a lot of effort in it. I particularly liked that you were able to use the plotly library to
+develop your own interactive programme. It shows that you know how to direcly implement data-related issues in practice for
+a specific purpose. There are some minor errors in the others files, but this happens in data exploration. This file looks really good and the code is nice and clean. Some comments would have been nice though. Also: you could have made clever use
+of functions which could have prevented you from using loops that look similar all the time. The file containing the Map code
+also looks really code and shows how much improvement you've made over these last weeks. Well done! 
+'''
+
+
 cities = pd.read_csv('cities_input.csv')
 total = pd.read_csv('total.csv')
 
